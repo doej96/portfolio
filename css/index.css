@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo:wght@700&family=Noto+Sans+KR:wght@300;400;700&family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300;1,600&display=swap');
+/* 
+font-family: 'Nanum Myeongjo', serif; light 300, regular 400, bold 700
+font-family: 'Noto Sans KR', sans-serif; light-i 300, regular 400, semibold-i 600
+font-family: 'Open Sans', sans-serif; bold 700
+*/
+@font-face {
+    font-family: 'ELAND_Choice_M';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/ELAND_Choice_M.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
